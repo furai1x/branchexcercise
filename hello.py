@@ -1,1 +1,3 @@
-Hello, World
+Import greet from helpers
+
+    greet("World")
